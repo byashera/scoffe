@@ -1,0 +1,34 @@
+{
+    "icecekler": [
+        {
+            "id": "1710518001",
+            "ad": "Flat White",
+            "fiyat": "95",
+            "icerik": "Çift shot espresso",
+            "gorsel": "1773594284.jpg"
+        },
+        {
+            "id": "1710518002",
+            "ad": "Türk Kahvesi",
+            "fiyat": "110",
+            "icerik": "Közde pişmiş",
+            "gorsel": "1773594278.jpg"
+        },
+        {
+            "id": 1773594384,
+            "ad": "Double Türk Kahvesi",
+            "fiyat": "125",
+            "icerik": "Büyük boy türk kahvesi",
+            "gorsel": "1773594384.jpg"
+        }
+    ],
+    "tatlilar": [
+        {
+            "id": "1710518003",
+            "ad": "Magnolia",
+            "fiyat": "190",
+            "icerik": "Çilekli taze krema",
+            "gorsel": "1773594273.jpg"
+        }
+    ]
+}
